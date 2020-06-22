@@ -137,7 +137,10 @@ header {
   background-color: #f7f7f7;
   text-align: center;
 }
-
+.fotoProfil {
+  max-width: 250px;
+  max-height: 250px;
+}
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
