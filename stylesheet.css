@@ -58,7 +58,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: red;
     margin-right: 10px;
 }
 
@@ -136,7 +136,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-color: #fff;
   text-align: center;
 }
 .fotoProfil {
@@ -189,9 +189,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: black;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px grey;
 }
 
 .message:active {
@@ -212,6 +212,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: black;
 }
 
 .menu-icon {
